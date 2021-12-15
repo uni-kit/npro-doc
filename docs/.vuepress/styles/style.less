@@ -1,0 +1,114 @@
+.sign{
+  font-size: 1.875rem;
+  color: #aaa;
+  margin: 0 20px;
+}
+
+.ant-btn-round.ant-btn-lg{
+  font-size: 18px;
+}
+
+a.header-anchor{
+  float: none;
+  margin: auto;
+}
+
+
+@media (max-width: @MQNarrow) {
+  .reset-mobile-brand{
+    margin: 1rem auto;
+    
+    img{
+      width: calc(25% - 25px);
+    }
+    .reset-mobile-brand-4{
+      img{
+        width: calc(25% - 48px);
+      }
+    }
+  }
+  .sign{
+    margin: 0 0.2rem;
+  }
+  
+}
+
+@media (max-width: @MQMobile) {
+
+  .reset-mobile-brand{
+    margin: 1rem auto;
+    
+    img{
+      width: calc(25% - 25px);
+    }
+    .reset-mobile-brand-4{
+      img{
+        width: calc(25% - 36px);
+      }
+    }
+  }
+  .sign{
+    font-size: 1.4rem;
+    margin: 0 .625rem;
+  }
+  
+}
+
+.theme-antdocs-content:not(.custom) {
+  padding-right: 30%;
+}
+
+.demo-box{
+  background-color: #fff;
+  width: 414px;
+  height: 736px;
+  position: fixed;
+  z-index: 10;
+  transform: translateY(-50%);
+  top: 50%;
+  right: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  &-iframe{
+      height: 100%;
+      width: 100%;
+      border-radius: 20px;
+  }
+}
+@media (max-width: 1730px) {
+  .demo-box{
+    width: 375px;
+    height: 667px;
+    right: 0;
+    margin-right: 20px;
+  }
+  .theme-antdocs-content:not(.custom) {
+    padding-right: 415px;
+    padding-left: 20px;
+  }
+}
+@media (max-width: 1440px) {
+  .demo-box{
+    width: 375px;
+    height: 667px;
+    right: 0;
+    margin-right: 20px;
+  }
+  .theme-antdocs-content:not(.custom) {
+    padding-right: 415px;
+    padding-left: 20px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .demo-box{
+    display: none;
+  }
+  .theme-antdocs-content:not(.custom) {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
