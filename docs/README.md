@@ -123,7 +123,7 @@ UI内部使用了`easycom`来帮您自动注册组件，没有用到的组件不
 "easycom": {
 	"autoscan": true,
 	"custom": {
-		"^n-(.*)": "@/nPro/$1/$1.vue" // 匹配nPro内的vue文件
+		"^n-(.*)": "@/nPro/n-$1/n-$1.vue" // 匹配nPro内的vue文件
 	}
 }
 ```
