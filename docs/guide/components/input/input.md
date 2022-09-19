@@ -23,7 +23,7 @@ title: input 输入框
 input输入框适应了各种情况，你可以用它直接作为search组件来用。因为他比search组件更加灵活，可以适配的情况会更多。
 
 ```html
-<n-input v-model="phone" mode="number" :maxlength="11" icon="phone" height="l" placeholder="输入手机号" space="20rpx" boxStyle="padding-left:10rpx;padding-right:10rpx;"></n-input>
+<n-input v-model="phone" type="number" :maxlength="11" icon="phone" height="l" placeholder="输入手机号" space="20rpx" boxStyle="padding-left:10rpx;padding-right:10rpx;"></n-input>
 <n-input v-model="password" :maxlength="24" :isPassword="true" :password="pwdNoVisible" :indicator="rightEye" icon="lock" height="l" placeholder="密码" space="20rpx" boxStyle="padding-left:10rpx;padding-right:10rpx;" @indicatorClicked="togglePwdVisible"></n-input>
 <n-input height="l" placeholder="请输入你的真实名字" boxStyle="padding-left:10rpx;padding-right:10rpx;">
 	<view class="n-flex-row n-wrap-nowrap n-align-center" slot="label" style="margin-right: 20rpx;">
@@ -31,7 +31,7 @@ input输入框适应了各种情况，你可以用它直接作为search组件来
 		<text class="n-size-base n-color-text">你的名字</text>
 	</view>
 </n-input>
-<n-input v-model="code" mode="number" :maxlength="4" icon="lock" height="l" placeholder="四位验证码" space="20rpx" boxStyle="padding-left:10rpx;padding-right:10rpx;">
+<n-input v-model="code" type="number" :maxlength="4" icon="lock" height="l" placeholder="四位验证码" space="20rpx" boxStyle="padding-left:10rpx;padding-right:10rpx;">
 	<view slot="extra" @tap="toGetCode">
 		<text :class="['bi-code', seconds===0&&'bi-code-active']">{{codeHintText}}</text>
 	</view>
