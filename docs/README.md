@@ -27,7 +27,7 @@ footerWrap:
     link: https://ext.dcloud.net.cn/plugin?id=5169
     details: 基于nvue的全端高级组件与模版库
   - title: mypUI
-    link: https://mypui.fekit.cn/
+    link: https://mypui.npro.vip/
     details: 免费开源的nvue/vue组件集
   - title: Github
     link: https://github.com/wakaryry/mypUI
@@ -63,9 +63,9 @@ footer: 付费组件库文档 | Copyright © 2021-present 马玉平
 
 `nPro`是基于uniapp/weex的一套组件库与工具集，可以**高效且规范**地开发出uniapp支持的各端应用（APP/各家小程序/H5/快应用）。
 
-兼容nvue页面和vue页面。nvue页面对应的app端依托weex编译为原生，具备良好的性能与体验。
+兼容nvue页面和vue页面。nvue页面对应的app端依托weex编译为原生，在app端具备良好的性能与体验。其他端与vue一致。
 
-`nPro`从学习成本、开发经验，以及记忆成本、性能优化、包体积等多方面考虑，不断优化，已经是一个非常优秀的框架，绝对能为您带来**稳定、高效、规范**的开发体验。
+`nPro`从学习成本、开发经验，以及记忆成本、性能优化、包体积等多方面考虑，不断优化，已经是一个非常优秀与稳定的框架，绝对能为您带来**稳定、高效、规范**的开发体验。
 
 再说，作者经历过 `Objective-c` `swift` `Python` `go` `Javascript` 等多语言开发，前后台都有涉及，绝对有信心和能力维护好一套优秀的组件，也不允许自己使用一套不规范的UI。
 
@@ -198,7 +198,7 @@ onLaunch: function() {
 
 - [mypUI-文档开源](https://github.com/wakaryry/mypui-doc)
 
-- [mypUI-文档地址](https://mypui.fekit.cn)
+- [mypUI-文档地址](https://mypui.redou.vip)
 
 - mypUI npm地址：[https://www.npmjs.com/package/@mypui/myp-ui](https://www.npmjs.com/package/@mypui/myp-ui)
 
