@@ -5,7 +5,7 @@ title: divider 分割器
 # divider
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/display/divider" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/display/divider" class="demo-box-iframe"></iframe>
 </div>
 
 > divider 分割器

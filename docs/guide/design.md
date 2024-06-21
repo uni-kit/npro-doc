@@ -7,7 +7,7 @@ order: 5
 # 设计规范
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/" class="demo-box-iframe"></iframe>
 </div>
 
 相信您已经大概了解了nPro的 [主题相关](/guide/theme) 的内容。

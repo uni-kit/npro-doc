@@ -5,7 +5,7 @@ title: tabs-v 竖向tabs
 # tabs-v
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/nav/tabs-v" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/nav/tabs-v" class="demo-box-iframe"></iframe>
 </div>
 
 tabs-v是竖向的tabs切换。

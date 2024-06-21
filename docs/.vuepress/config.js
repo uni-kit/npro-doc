@@ -13,7 +13,7 @@ module.exports = {
 	],
 	title: "nPro-nvue全端组件与模版库",
 	description: "基于nvue的全端组件与模版库，支持编译到所有APP/小程序/H5",
-	base: "/", //默认路径
+	base: "/npro-doc/", //默认路径
 	plugins: [["vuepress-plugin-code-copy", true]],
 	themeConfig: {
 		logo: "/img/logo.png",

@@ -5,7 +5,7 @@ title: badge 徽标
 # badge
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/display/badge" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/display/badge" class="demo-box-iframe"></iframe>
 </div>
 
 > badge 角标

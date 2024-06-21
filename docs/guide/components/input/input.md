@@ -5,7 +5,7 @@ title: input 输入框
 # input
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/input/input" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/input/input" class="demo-box-iframe"></iframe>
 </div>
 
 采用 icon-label-value-indicator 四段式的设计。还开放了 label/default/extra 等插槽。

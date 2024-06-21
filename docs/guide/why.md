@@ -7,7 +7,7 @@ order: 1
 # 为什么选择nPro
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/" class="demo-box-iframe"></iframe>
 </div>
 
 `nPro`是基于uniapp/weex的一套组件库与工具集，可以**高效且规范**地开发出uniapp支持的各端应用（APP/各家小程序/H5/快应用）。所有组件兼容nvue页面和vue页面。

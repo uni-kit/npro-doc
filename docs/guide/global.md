@@ -7,7 +7,7 @@ order: 3
 # 全局视野
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/" class="demo-box-iframe"></iframe>
 </div>
 
 为了让您更加深入的理解nPro，以及更加高效的使用，我们特意从设计者的角度来解读nPro。或者您也可以把这篇全局视野当作是我们建议的最佳实践。希望对您有用。祝您使用愉快。

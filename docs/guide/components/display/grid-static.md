@@ -5,7 +5,7 @@ title: grid-static 宫格
 # grid-static
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/display/grid-static" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/display/grid-static" class="demo-box-iframe"></iframe>
 </div>
 
 > grid-static 宫格

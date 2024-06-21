@@ -5,7 +5,7 @@ title: 动画模块
 # animation
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/animation/index" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/animation/index" class="demo-box-iframe"></iframe>
 </div>
 
 nvue中动画的实现并不是很友好。

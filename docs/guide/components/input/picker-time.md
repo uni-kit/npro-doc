@@ -5,7 +5,7 @@ title: picker-time 时间选择
 # picker-time
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/input/picker" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/input/picker" class="demo-box-iframe"></iframe>
 </div>
 
 > picker-time 时间选择器

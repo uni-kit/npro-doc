@@ -5,7 +5,7 @@ title: tabs-h 横向tabs
 # tabs-h
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/nav/tabs-h" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/nav/tabs-h" class="demo-box-iframe"></iframe>
 </div>
 
 tabs-h 是直接基于 scroll-view 做的 横向可自动当前tab居中的 tabs滚动。一般用于 楼层内容与当前楼层指引，以及swiper等联动。

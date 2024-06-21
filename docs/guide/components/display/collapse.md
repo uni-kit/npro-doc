@@ -5,7 +5,7 @@ title: collapse 折叠
 # collapse
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/display/collapse" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/display/collapse" class="demo-box-iframe"></iframe>
 </div>
 
 > collapse 折叠

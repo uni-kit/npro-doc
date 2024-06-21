@@ -7,7 +7,7 @@ order: 4
 # 主题配置
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/" class="demo-box-iframe"></iframe>
 </div>
 
 nPro是基于主题配置的组件库，在快速配置与开发的同时，给予了您足够便捷的个性化定制能力，你可以随意增加与覆盖/自定义主题。

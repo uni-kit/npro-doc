@@ -5,7 +5,7 @@ title: 多皮肤/换肤
 # theme
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/theme/index" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/theme/index" class="demo-box-iframe"></iframe>
 </div>
 
 随着运营的深入，越来越多的APP开始加上换肤功能，或者包含有不同的主题。比如系列的皮肤，或者带节日的气氛。

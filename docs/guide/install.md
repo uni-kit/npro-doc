@@ -7,7 +7,7 @@ order: 2
 # 快速上手
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/" class="demo-box-iframe"></iframe>
 </div>
 
 <p>&nbsp; </p> 
@@ -141,7 +141,7 @@ onLaunch: function() {
 
 - [nPro](https://ext.dcloud.net.cn/plugin?id=5169) uniapp插件市场，欢迎好评与star
 
-- [nPro-H5演示](https://npro.redou.vip/h5/)
+- [nPro-H5演示](http://www.redou.vip/npro/)
 
 - [nPro-文档](https://npro.redou.vip)
 

@@ -5,7 +5,7 @@ title: loading-indicator 加载指示器
 # loading-indicator
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/pop/loading-indicator" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/pop/loading-indicator" class="demo-box-iframe"></iframe>
 </div>
 
 > loading-indicator 加载指示器

@@ -5,7 +5,7 @@ title: position 定位
 # position
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/box/position" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/box/position" class="demo-box-iframe"></iframe>
 </div>
 
 用来快速定位。主要是比较方便设置一些内置的offset，比如`status`。

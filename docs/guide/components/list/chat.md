@@ -5,7 +5,7 @@ title: chat 聊天列表
 # chat
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/list/chat" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/list/chat" class="demo-box-iframe"></iframe>
 </div>
 
 聊天列表是基于nPro中的list组件实现的。

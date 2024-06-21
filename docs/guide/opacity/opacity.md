@@ -5,7 +5,7 @@ title: 透明度
 # opacity
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/opacity/index" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/opacity/index" class="demo-box-iframe"></iframe>
 </div>
 
 - 我们可以直接使用opacity样式作用于元素，不过opacity会使其整体以及里面的子元素都具备opacity的效果。

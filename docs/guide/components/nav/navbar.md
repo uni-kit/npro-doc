@@ -5,7 +5,7 @@ title: navbar 导航栏
 # navbar
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/nav/navbar" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/nav/navbar" class="demo-box-iframe"></iframe>
 </div>
 
 > navbar: 通用的自定义导航栏组件。

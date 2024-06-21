@@ -5,7 +5,7 @@ title: 阴影
 # shadow
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/shadow/index" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/shadow/index" class="demo-box-iframe"></iframe>
 </div>
 
 Weex 支持 box-shadow 属性用于设置元素阴影。

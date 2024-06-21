@@ -5,7 +5,7 @@ title: avatars 头像群
 # avatars
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/display/avatars" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/display/avatars" class="demo-box-iframe"></iframe>
 </div>
 
 通常用来展示一群头像。

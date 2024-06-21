@@ -5,7 +5,7 @@ title: input-one 验证码输入
 # input-one
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/input/input-one" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/input/input-one" class="demo-box-iframe"></iframe>
 </div>
 
 > input-one 验证码/密码形式的输入框

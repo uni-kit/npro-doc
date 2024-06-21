@@ -5,7 +5,7 @@ title: swiper 自定义
 # swiper
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/box/swiper" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/box/swiper" class="demo-box-iframe"></iframe>
 </div>
 
 ## Props

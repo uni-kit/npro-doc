@@ -5,7 +5,7 @@ title: tab-container 切换盒子
 # tab-container
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/box/tab-container" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/box/tab-container" class="demo-box-iframe"></iframe>
 </div>
 
 快速切换盒子。非常轻便。

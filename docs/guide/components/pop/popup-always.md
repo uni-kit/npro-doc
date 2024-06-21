@@ -5,7 +5,7 @@ title: popup-always 弹窗
 # popup-always
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/pop/popup-always" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/pop/popup-always" class="demo-box-iframe"></iframe>
 </div>
 
 popup-always里面的内容只会创建一次，里面不受v-if控制。用途如下：

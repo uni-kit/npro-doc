@@ -5,7 +5,7 @@ title: scroll-h 横向滚动
 # scroll-h
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/list/scroll-h" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/list/scroll-h" class="demo-box-iframe"></iframe>
 </div>
 
 横向滚动组件。

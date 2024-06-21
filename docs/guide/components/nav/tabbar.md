@@ -5,7 +5,7 @@ title: tabbar 底部导航
 # tabbar
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/nav/tabbar" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/nav/tabbar" class="demo-box-iframe"></iframe>
 </div>
 
 tabbar 提供了自定义 tabbar 的UI以及包含子组件与跳转的能力。

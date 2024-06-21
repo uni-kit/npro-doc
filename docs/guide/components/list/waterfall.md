@@ -5,7 +5,7 @@ title: waterfall 瀑布流
 # waterfall
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/list/waterfall" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/list/waterfall" class="demo-box-iframe"></iframe>
 </div>
 
 - nvue-app端使用waterfall；

@@ -5,7 +5,7 @@ title: bg-view 背景图片
 # bg-view
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/box/bg-view" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/box/bg-view" class="demo-box-iframe"></iframe>
 </div>
 
 > bg-view 用于快速设置图片背景。比如使用背景图片来做阴影效果。

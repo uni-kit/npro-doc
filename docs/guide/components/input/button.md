@@ -5,7 +5,7 @@ title: button 按钮
 # button
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/input/button" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/input/button" class="demo-box-iframe"></iframe>
 </div>
 
 > button 按钮

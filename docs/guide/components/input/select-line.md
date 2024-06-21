@@ -5,7 +5,7 @@ title: select-line 选择行
 # select-line
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/input/select-line" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/input/select-line" class="demo-box-iframe"></iframe>
 </div>
 
 > select-line 非input输入的选择行。为了快速设置placeholder，以及与input一致的设置体验

@@ -5,7 +5,7 @@ title: gallery 画廊
 # gallery
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/box/gallery" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/box/gallery" class="demo-box-iframe"></iframe>
 </div>
 
 可随意滚动的画廊组件。

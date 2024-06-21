@@ -5,7 +5,7 @@ title: notice-dynamic 动态提示
 # notice-dynamic
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/pop/notice-dynamic" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/pop/notice-dynamic" class="demo-box-iframe"></iframe>
 </div>
 
 > notice-dynamic 动态滑出的通知/提示

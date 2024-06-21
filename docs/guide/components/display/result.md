@@ -5,7 +5,7 @@ title: result 结果
 # result
 
 <div class="demo-box">
-	<iframe scrolling="auto" frameborder="0" src="https://npro.redou.vip/h5/#/pages/display/result" class="demo-box-iframe"></iframe>
+	<iframe scrolling="auto" frameborder="0" src="http://www.redou.vip/npro/#/pages/display/result" class="demo-box-iframe"></iframe>
 </div>
 
 > result 结果/状态展示
